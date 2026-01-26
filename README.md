@@ -1,7 +1,9 @@
 # 📊 Credit Card Financial Insights Dashboard
 ## 📌 Project Overview
 This project focuses on building an interactive weekly credit card analytics dashboard using Power BI.
+
 It enables stakeholders to monitor financial performance, customer behavior, transaction trends, and operational metrics in a clear and data-driven manner.
+
 The dashboard is designed to support strategic decision-making by providing real-time visibility into revenue drivers, customer segments, and transaction patterns.
 
 ---
