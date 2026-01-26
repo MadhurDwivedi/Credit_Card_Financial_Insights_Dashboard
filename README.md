@@ -71,7 +71,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ---
 
 ## 👉 Power BI Report (View Only): 
-
 For a detailed report and interactive analysis, refer to the [Credit Card Financial Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTlhNDcyNWYtZTYxZi00MzNlLThjODgtZTNiOGQ2ZDYxNjQyIiwidCI6ImVkZjQ0MmY1LWI5OTQtNGM4Ni1hMTMxLWI0MmIwM2ExNmM5NSIsImMiOjEwfQ%3D%3D)
 
 ---
