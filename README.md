@@ -1,4 +1,5 @@
 # 📊 Credit Card Financial Insights Dashboard
+![Credit_Card_Financial_Insights_Dashboard](https://github.com/MadhurDwivedi/Credit_Card_Financial_Insights_Dashboard/blob/main/Credit%20Card-%20Customer%20Report.png)
 ## 📌 Project Overview
 This project focuses on building an interactive weekly credit card analytics dashboard using Power BI.
 
